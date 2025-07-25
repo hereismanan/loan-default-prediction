@@ -39,7 +39,6 @@ This project solves a real-world classification problem from the [Loan Predictio
 - Decision Tree Accuracy: ~**81**
 - Random Forest Accuracy: ~**80**
 
-> *(You can replace X and Y with actual values from your run)*
 
 ---
 
